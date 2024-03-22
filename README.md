@@ -38,7 +38,7 @@ the table contains
 The project was done in Microsoft Excel. So, No modeling is needed
 
 ## Data Analysis and Visualization.
-![](superstore_page1.png)
+![](Mavins_dashboard.png)
 
 From the Dashboard, It is observed that 
 INSIGHT
